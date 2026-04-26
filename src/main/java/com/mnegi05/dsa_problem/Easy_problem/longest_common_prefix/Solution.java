@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.longest_common_prefix;
+package com.mnegi05.dsa_problem.Easy_problem.longest_common_prefix;
 
 class Solution {
     public String longestCommonPrefix(String[] strs) {
