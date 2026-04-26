@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.reverse_integer;
+package com.mnegi05.dsa_problem.Medium_problem.reverse_integer;
 
 class Solution {
     public int reverse(int x) {
