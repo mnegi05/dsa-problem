@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.two_sum;
+package com.mnegi05.dsa_problem.Easy_problem.two_sum;
 
 import java.util.HashMap;
 import java.util.Map;
