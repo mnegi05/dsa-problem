@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.three_sum_closest;
+package com.mnegi05.dsa_problem.Medium_problem.three_sum_closest;
 
 import java.util.Arrays;
 
