@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.regular_expression_matching;
+package com.mnegi05.dsa_problem.Hard_problem.regular_expression_matching;
 
 class Solution {
     public boolean isMatch(String s, String p) {
