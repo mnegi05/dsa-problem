@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.longest_palindromic_substring;
+package com.mnegi05.dsa_problem.Medium_problem.longest_palindromic_substring;
 
 class Solution {
     public String longestPalindrome(String s) {
