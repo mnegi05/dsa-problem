@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.median_of_two_sorted_arrays;
+package com.mnegi05.dsa_problem.Hard_problem.median_of_two_sorted_arrays;
 
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
