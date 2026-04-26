@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.zigzag_conversion;
+package com.mnegi05.dsa_problem.Medium_problem.zigzag_conversion;
 
 class Solution {
     public String convert(String s, int numRows) {
