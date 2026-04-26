@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.container_with_most_water;
+package com.mnegi05.dsa_problem.Medium_problem.container_with_most_water;
 
 class Solution {
     public int maxArea(int[] height) {
