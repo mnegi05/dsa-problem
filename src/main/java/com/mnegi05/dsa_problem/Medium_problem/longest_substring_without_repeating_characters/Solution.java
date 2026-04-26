@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.longest_substring_without_repeating_characters;
+package com.mnegi05.dsa_problem.Medium_problem.longest_substring_without_repeating_characters;
 
 import java.util.HashMap;
 import java.util.Map;
