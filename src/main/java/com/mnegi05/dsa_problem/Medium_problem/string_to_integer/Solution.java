@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.string_to_integer;
+package com.mnegi05.dsa_problem.Medium_problem.string_to_integer;
 
 class Solution {
 
