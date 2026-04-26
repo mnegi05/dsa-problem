@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.letter_combinations_of_a_phone_number;
+package com.mnegi05.dsa_problem.Medium_problem.letter_combinations_of_a_phone_number;
 
 import java.util.ArrayList;
 import java.util.HashMap;
