@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.add_two_number;
+package com.mnegi05.dsa_problem.Medium_problem.add_two_number;
 
 import com.mnegi05.utils.ListNode;
 
