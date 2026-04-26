@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.palindrome_number;
+package com.mnegi05.dsa_problem.Easy_problem.palindrome_number;
 
 class Solution {
     public boolean isPalindrome(int x) {
