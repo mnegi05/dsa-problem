@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.roman_to_integer;
+package com.mnegi05.dsa_problem.Easy_problem.roman_to_integer;
 
 class Solution {
     public static int romanToInt(String s) {
