@@ -1,4 +1,4 @@
-package com.mnegi05.dsa_problem.four_sum;
+package com.mnegi05.dsa_problem.Medium_problem.four_sum;
 
 import java.util.ArrayList;
 import java.util.Arrays;
